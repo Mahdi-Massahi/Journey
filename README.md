@@ -5,4 +5,6 @@ I was wondering if I would be able to see my progress over the years. That's why
 | Date | Topic and Description | Solution | Solved in |
 | ---- | --------------------- | -------- | --------- | 
 | Mar 1, 2021 | How do gates work in quantum computers? | NA | NA |
-| Mar 3, 2021 | Whay actually CNOT gate does?           | NA | NA |
+| Mar 3, 2021 | What actually CNOT gate does?           | NA | NA |
+| Mar 5, 2021 | What is backpropagation?                | NA | NA |
+| Mar 6, 2021 | How do GANs work?                       | NA | NA |
