@@ -8,4 +8,5 @@ I was wondering if I would be able to see my progress over the years. That's why
 | 02 | Mar 3, 2022 | What actually CNOT gate does?           | NA | NA |
 | 03 | Mar 5, 2022 | What is backpropagation?                | NA | NA |
 | 04 | Mar 6, 2022 | How do GANs work?                       | NA | NA |
-| 05 | Mar 9, 2022 | what a Boltzmann Machine does?          | NA | NA |
+| 05 | Mar 9, 2022 | What a Boltzmann Machine does?          | NA | NA |
+| 06 | Mar 29, 2022| What is Differential Evolution?         | NA | NA |
