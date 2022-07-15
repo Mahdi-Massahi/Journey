@@ -11,3 +11,4 @@ I was wondering if I would be able to see my progress over the years. That's why
 | 05 | Mar 9, 2022 | What a Boltzmann Machine does?          | NA |
 | 06 | Mar 29, 2022| What is Differential Evolution?         | Apr 15, 2022 |
 | 06 | Apr 30, 2022| What is Bayes Theorem?                  | Mar 1, 2022 |
+| 07 | Jul 15, 2022| What is MLflow?                         | NA |
